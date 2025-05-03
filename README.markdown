@@ -131,3 +131,6 @@ Contributions are welcome! Please:
 - Monitor Telegram notifications for trade updates.
 
 For issues or questions, please open an issue on GitHub.
+<img width="412" alt="Screenshot 2025-03-30 at 22 32 57" src="https://github.com/user-attachments/assets/71170098-96ea-479a-9695-7bdd8d3e3deb" />
+
+
